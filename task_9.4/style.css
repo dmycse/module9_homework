@@ -1,0 +1,23 @@
+.input {
+	margin: 20px;
+	width: 250px;
+}
+.btn {
+	color: white;
+	background-color: hsl(212, 66%, 55%);
+	cursor: pointer;
+	margin-left: 20px;
+}
+.btn:hover {
+	color: black;
+}
+.result {
+	margin: 20px 0 0 20px;
+}
+.card {
+ width: 200px;
+ margin: 20px;
+}
+.card-image {
+ display: block;
+}
